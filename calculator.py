@@ -1,8 +1,8 @@
-import math   #at first,  we import the math library so we can use math.log()
+
 #https://github.com/antiparu/lab11-JC-AD
 #Josh Carrington as Partner 1
 #Alejandro Delgado as Partner 2
-
+import math   #at first,  we import the math library so we can use math.log()
 
 def add(a, b):
     return a + b   #we return the sum of a and b
